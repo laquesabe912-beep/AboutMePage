@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en"
+<head>
+    <meta charset="UTF-8"
+    <title About_Me_Page>
+        </title>    
+</head>
+<body>
+    <h1>Patricia West</h1>
+    <p>My name is Patti. I'm a retired Registered Nurse training for a new career in Tech</p>
+    <h2>Hobbies</h2>
+    <ul>
+        <li>Kayaking</li>
+        <li>Abstract Painting</li>
+        <li>Cooking</li>
+    </ul>
+    
+    <h2>Personal</h2>
+        <p>I am a Buddhist and a vegetarian. I have 3 grown sons. I am a wisow.</p>
+
+</body>
+</html>
+git status
+git add About_Me_Page
+git commit -m "Add About Me Page with personal information and hobbies"
+git push origin main
